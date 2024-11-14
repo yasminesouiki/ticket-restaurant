@@ -10,7 +10,7 @@ Ce projet en C permet de générer un ticket d'addition pour un restaurant. L'ut
 Variables :
 nombreArticles pour le nombre d'articles.
 total, taxe, et totalAvecTaxe pour les calculs du coût.
-tauxTaxe définit la taxe (ici, 10%).
+tauxTaxe définit la taxe (ici, 1%).
 
 Entrée des données :
 Pour chaque article, l'utilisateur entre son nom, sa quantité, et son prix unitaire.
